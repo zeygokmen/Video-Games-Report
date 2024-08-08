@@ -7,6 +7,8 @@ This repository contains a comprehensive analysis of video game sales across dif
 ## Link for the Project
 [Video Games Report](https://lookerstudio.google.com/s/iQUsl4Vn3E4)
 
+<img src="videogames.jpeg" width="300" height="200" />
+
 ## Data Sources
 The data for this analysis was gathered from reliable sources, including:
 - [Kagle](https://www.kaggle.com/datasets/gregorut/videogamesales/data)
