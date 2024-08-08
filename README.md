@@ -30,3 +30,11 @@ The data for this analysis was gathered from reliable sources, including:
 ### Geospatial Analysis
 - Mapping video game sales by region using maps
 - Visualization of sales density across different areas
+
+## Contact
+For questions or suggestions, please contact [zeynep.gokmen@etiya.com](mailto:zeynep.gokmen@etiya.com) or [zeynep.gokmen@sabanciuniv.edu](mailto:zeynep.gokmen@sabanciuniv.edu).
+
+---
+
+*Note: This project is for educational and informational purposes only.*
+
